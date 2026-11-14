@@ -1,0 +1,10 @@
+{
+  "token-monitor-hook": {
+    "SessionStart": [
+      {
+        "type": "command",
+        "command": "node scripts/on_session_start.js"
+      }
+    ]
+  }
+}

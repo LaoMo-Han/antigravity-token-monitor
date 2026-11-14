@@ -1,0 +1,13 @@
+{
+  "name": "token-monitor",
+  "displayName": "Token 实时配额监控器",
+  "description": "实时常驻显示 Gemini 与 Claude/GPT 模型的 5h 及周度配额余量。支持极简背景水印、经典卡片、双环仪表盘与极客 HUD 四种风格，支持全屏自由拖拽移动、白天/黑夜模式自适应与左键即点即刷。",
+  "version": "1.0.0",
+  "author": "lin",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "刷新并查看当前的 Token 配额余量",
+    "切换 Token 监控组件显示风格",
+    "将 Token 监控组件复位吸附到左侧边栏"
+  ]
+}
